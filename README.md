@@ -22,7 +22,7 @@
 
 - 📝 I regularly write articles on [https://www.linkedin.com/in/salma-sanubar-8a7776251/](https://www.linkedin.com/in/salma-sanubar-8a7776251/)
 
-- 📫 How to reach me **salmasanubar768@gmail.com**
+- 📫 How to reach me **salmasanubar786@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
