@@ -7,7 +7,7 @@
 <li>Code Enthusiast: Focused on writing clean, maintainable, and well-documented code.</li>
 <li>Collaboration: Enjoy working with cross-functional teams, clients, and stakeholders to achieve project objectives.</li>
 </ul>
-<h1>What Fuels My Passion</h1>
+<h3>What Fuels My Passion</h3>
 <ul>
 <li>🔥 Coding Adventures 👨‍💻</li>
 <li>✏️ Creative Designing</li>
