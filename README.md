@@ -16,10 +16,7 @@
 <p>I'm passionate about turning ideas into reality and always looking for new challenges to tackle</p>
 <img align="right" alt="coding" width="400" src="https://i.pinimg.com/564x/f9/14/5d/f9145d53a99982d004eb26361e80c9c9.jpg">
 
-
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=salma549&label=Profile%20views&color=0e75b6&style=flat" alt="salma549" /> </p>
-
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=salma549" alt="salma549" /></a> </p>
 
 - 👨‍💻 All of my projects are available at [https://github.com/salma549](https://github.com/salma549)
 
