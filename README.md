@@ -13,7 +13,7 @@
 <li>✏️ Creative Designing</li>
 <li>📈 Product Innovation</li>
 </ul>
-<p>I'm passionate about turning ideas into reality and always looking for new challenges to tackle</p>
+<p>I'm passionate about turning ideas into reality and always looking for new challenges to tackle.</p>
 <img align="right" alt="coding" width="400" src="https://i.pinimg.com/564x/f9/14/5d/f9145d53a99982d004eb26361e80c9c9.jpg">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=salma549&label=Profile%20views&color=0e75b6&style=flat" alt="salma549" /> </p>
