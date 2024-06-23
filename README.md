@@ -5,7 +5,7 @@
 <ul>
 <li>Top-Notch Code: Committed to delivering high-quality, robust solutions.</li>
 <li>Code Enthusiast: Focused on writing clean, maintainable, and well-documented code.</li>
-<li>Collaboration: Enjoy working with cross-functional teams, clients, and stakeholders to achieve project objectives.
+<li>Collaboration: Enjoy working with cross-functional teams, clients, and stakeholders to achieve project objectives.</li>
 </ul>
 <h3>What Fuels My Passion</h3>
 <ul>
