@@ -20,7 +20,7 @@
 
 - 👨‍💻 All of my projects are available at [https://github.com/salma549](https://github.com/salma549)
 
-- 📝 I regularly write articles on [https://www.linkedin.com/in/salma-sanubar-8a7776251/](https://www.linkedin.com/in/salma-sanubar-8a7776251/)
+- 📝 I  write articles on [https://www.linkedin.com/in/salma-sanubar-8a7776251/](https://www.linkedin.com/in/salma-sanubar-8a7776251/)
 
 - 📫 How to reach me **salmasanubar786@gmail.com**
 
