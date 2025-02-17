@@ -24,7 +24,7 @@
 
 - 📫 How to reach me **salmasanubar786@gmail.com**
 
-- Visit my Portfolio salmasanubar.com
+- Visit my Portfolio **salmasanubar.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
