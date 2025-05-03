@@ -132,7 +132,7 @@
   <tr>
   <td align="center" width="100">
     <a href="https://www.pinecone.io/" target="_blank" rel="noreferrer">
-      <img src="https://avatars.githubusercontent.com/u/78069238?s=200&v=4" alt="Pinecone" width="40" height="40"/>
+      <img src="https://seeklogo.com/images/P/pinecone-logo-482364.png" alt="Pinecone" width="40" height="40"/>
     </a>
   </td>
   <td align="center" width="100">
