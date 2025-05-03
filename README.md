@@ -39,7 +39,7 @@
 
 <h3 align="left">Languages and Tools:</h3>
 <div style="display: flex; justify-content: center; margin: 20px;">
-  <table style="width: 800px; border-collapse: collapse; background: #f9f9f9; border: 2px solid #ccc; border-radius: 10px;">
+  <table style="width: 1000px; border-collapse: collapse; background: #f9f9f9; border: 2px solid #ccc; border-radius: 10px;">
     <tr>
       <td align="center" style="padding: 15px;">
         <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer">
