@@ -114,7 +114,36 @@
       <a href="https://tailwindcss.com/" target="_blank" rel="noreferrer">
         <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="tailwind" width="40" height="40"/>
       </a>
+       <td align="center" width="100">
+      <a href="https://tailwindcss.com/" target="_blank" rel="noreferrer">
+        <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="tailwind" width="40" height="40"/>
+      </a>
     </td>
+
+ 
+  </td>
+  <td align="center" width="100">
+    <a href="https://n8n.io/" target="_blank" rel="noreferrer">
+      <img src="https://n8n.io/images/favicon/apple-touch-icon.png" alt="n8n" width="40" height="40"/>
+    </a>
+  </td>
+  <td align="center" width="100">
+    <a href="https://flowiseai.com/" target="_blank" rel="noreferrer">
+      <img src="https://flowiseai.com/favicon-32x32.png" alt="Flowise" width="40" height="40"/>
+    </a>
+  </td>
+  <td align="center" width="100">
+    <a href="https://www.pinecone.io/" target="_blank" rel="noreferrer">
+      <img src="https://avatars.githubusercontent.com/u/78069238?s=200&v=4" alt="Pinecone" width="40" height="40"/>
+    </a>
+  </td>
+  <td align="center" width="100">
+    <a href="https://supabase.com/" target="_blank" rel="noreferrer">
+      <img src="https://www.vectorlogo.zone/logos/supabase/supabase-icon.svg" alt="Supabase" width="40" height="40"/>
+    </a>
+  </td>
+</tr>
+
   </tr>
 </table>
 
