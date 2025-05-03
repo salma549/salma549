@@ -120,7 +120,7 @@
   </td>
   <td align="center" width="100">
     <a href="https://n8n.io/" target="_blank" rel="noreferrer">
-      <img src="https://n8n.io/images/favicon/apple-touch-icon.png" alt="n8n" width="40" height="40"/>
+      <img src="https://raw.githubusercontent.com/n8n-io/n8n/master/assets/n8n-logo.png" alt="n8n" width="40" height="40"/>
     </a>
   </td>
   <td align="center" width="100">
