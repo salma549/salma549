@@ -38,101 +38,102 @@
 
 
 <h3 align="left">Languages and Tools:</h3>
-<table style="margin: auto; border-collapse: separate; border-spacing: 20px; background-color: #f9f9f9; padding: 20px; border-radius: 20px; box-shadow: 0 4px 15px rgba(0,0,0,0.1);">
-  <tr>
-    <td align="center" style="padding: 20px;">
-      <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer">
-        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="60" height="60"/>
-      </a>
-    </td>
-    <td align="center" style="padding: 20px;">
-      <a href="https://expressjs.com" target="_blank" rel="noreferrer">
-        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg" alt="express" width="60" height="60"/>
-      </a>
-    </td>
-    <td align="center" style="padding: 20px;">
-      <a href="https://git-scm.com/" target="_blank" rel="noreferrer">
-        <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="60" height="60"/>
-      </a>
-    </td>
-  </tr>
-  <tr>
-    <td align="center" style="padding: 20px;">
-      <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer">
-        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="60" height="60"/>
-      </a>
-    </td>
-    <td align="center" style="padding: 20px;">
-      <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer">
-        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="60" height="60"/>
-      </a>
-    </td>
-    <td align="center" style="padding: 20px;">
-      <a href="https://www.linux.org/" target="_blank" rel="noreferrer">
-        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="60" height="60"/>
-      </a>
-    </td>
-  </tr>
-  <tr>
-    <td align="center" style="padding: 20px;">
-      <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer">
-        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="60" height="60"/>
-      </a>
-    </td>
-    <td align="center" style="padding: 20px;">
-      <a href="https://nodejs.org" target="_blank" rel="noreferrer">
-        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="60" height="60"/>
-      </a>
-    </td>
-    <td align="center" style="padding: 20px;">
-      <a href="https://postman.com" target="_blank" rel="noreferrer">
-        <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="60" height="60"/>
-      </a>
-    </td>
-  </tr>
-  <tr>
-    <td align="center" style="padding: 20px;">
-      <a href="https://www.python.org" target="_blank" rel="noreferrer">
-        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="60" height="60"/>
-      </a>
-    </td>
-    <td align="center" style="padding: 20px;">
-      <a href="https://reactjs.org/" target="_blank" rel="noreferrer">
-        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="60" height="60"/>
-      </a>
-    </td>
-    <td align="center" style="padding: 20px;">
-      <a href="https://reactnative.dev/" target="_blank" rel="noreferrer">
-        <img src="https://reactnative.dev/img/header_logo.svg" alt="reactnative" width="60" height="60"/>
-      </a>
-    </td>
-  </tr>
-  <tr>
-    <td align="center" style="padding: 20px;">
-      <a href="https://tailwindcss.com/" target="_blank" rel="noreferrer">
-        <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="tailwind" width="60" height="60"/>
-      </a>
-    </td>
-    <td align="center" style="padding: 20px;">
-      <a href="https://n8n.io/" target="_blank" rel="noreferrer">
-        <img src="https://raw.githubusercontent.com/n8n-io/n8n/master/assets/n8n-logo.png" alt="n8n" width="60" height="60"/>
-      </a>
-    </td>
-    <td align="center" style="padding: 20px;">
-      <a href="https://flowiseai.com/" target="_blank" rel="noreferrer">
-        <img src="https://raw.githubusercontent.com/FlowiseAI/Flowise/main/images/flowise.png" alt="Flowise" width="60" height="60"/>
-      </a>
-    </td>
-  </tr>
-  <tr>
-    <td align="center" colspan="3" style="padding: 20px;">
-      <a href="https://supabase.com/" target="_blank" rel="noreferrer">
-        <img src="https://www.vectorlogo.zone/logos/supabase/supabase-icon.svg" alt="Supabase" width="60" height="60"/>
-      </a>
-    </td>
-  </tr>
-</table>
-
+<div style="display: flex; justify-content: center; margin: 20px;">
+  <table style="width: 800px; border-collapse: collapse; background: #f9f9f9; border: 2px solid #ccc; border-radius: 10px;">
+    <tr>
+      <td align="center" style="padding: 15px;">
+        <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer">
+          <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="60" height="60"/>
+        </a>
+      </td>
+      <td align="center" style="padding: 15px;">
+        <a href="https://expressjs.com" target="_blank" rel="noreferrer">
+          <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg" alt="express" width="60" height="60"/>
+        </a>
+      </td>
+      <td align="center" style="padding: 15px;">
+        <a href="https://git-scm.com/" target="_blank" rel="noreferrer">
+          <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="60" height="60"/>
+        </a>
+      </td>
+    </tr>
+    <tr>
+      <td align="center" style="padding: 15px;">
+        <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer">
+          <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="60" height="60"/>
+        </a>
+      </td>
+      <td align="center" style="padding: 15px;">
+        <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer">
+          <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="60" height="60"/>
+        </a>
+      </td>
+      <td align="center" style="padding: 15px;">
+        <a href="https://www.linux.org/" target="_blank" rel="noreferrer">
+          <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="60" height="60"/>
+        </a>
+      </td>
+    </tr>
+    <tr>
+      <td align="center" style="padding: 15px;">
+        <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer">
+          <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="60" height="60"/>
+        </a>
+      </td>
+      <td align="center" style="padding: 15px;">
+        <a href="https://nodejs.org" target="_blank" rel="noreferrer">
+          <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="60" height="60"/>
+        </a>
+      </td>
+      <td align="center" style="padding: 15px;">
+        <a href="https://postman.com" target="_blank" rel="noreferrer">
+          <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="60" height="60"/>
+        </a>
+      </td>
+    </tr>
+    <tr>
+      <td align="center" style="padding: 15px;">
+        <a href="https://www.python.org" target="_blank" rel="noreferrer">
+          <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="60" height="60"/>
+        </a>
+      </td>
+      <td align="center" style="padding: 15px;">
+        <a href="https://reactjs.org/" target="_blank" rel="noreferrer">
+          <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="60" height="60"/>
+        </a>
+      </td>
+      <td align="center" style="padding: 15px;">
+        <a href="https://reactnative.dev/" target="_blank" rel="noreferrer">
+          <img src="https://reactnative.dev/img/header_logo.svg" alt="reactnative" width="60" height="60"/>
+        </a>
+      </td>
+    </tr>
+    <tr>
+      <td align="center" style="padding: 15px;">
+        <a href="https://tailwindcss.com/" target="_blank" rel="noreferrer">
+          <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="tailwind" width="60" height="60"/>
+        </a>
+      </td>
+      <td align="center" style="padding: 15px;">
+        <a href="https://n8n.io/" target="_blank" rel="noreferrer">
+          <img src="https://raw.githubusercontent.com/n8n-io/n8n/master/assets/n8n-logo.png" alt="n8n" width="60" height="60"/>
+        </a>
+      </td>
+      <td align="center" style="padding: 15px;">
+        <a href="https://flowiseai.com/" target="_blank" rel="noreferrer">
+          <img src="https://raw.githubusercontent.com/FlowiseAI/Flowise/main/images/flowise.png" alt="Flowise" width="60" height="60"/>
+        </a>
+      </td>
+    </tr>
+    <tr>
+      <td align="center" style="padding: 15px;" colspan="3">
+        <a href="https://supabase.com/" target="_blank" rel="noreferrer">
+          <img src="https://www.vectorlogo.zone/logos/supabase/supabase-icon.svg" alt="Supabase" width="60" height="60"/>
+        </a>
+      </td>
+    </tr>
+  </table>
+</div>
 
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=salma549&show_icons=true&locale=en&layout=compact" alt="salma549" /></p>
