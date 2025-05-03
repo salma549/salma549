@@ -125,7 +125,7 @@
   </td>
   <td align="center" width="100">
     <a href="https://flowiseai.com/" target="_blank" rel="noreferrer">
-      <img src="https://flowiseai.com/favicon-32x32.png" alt="Flowise" width="40" height="40"/>
+      <img src="[https://flowiseai.com/favicon-32x32.png](https://raw.githubusercontent.com/FlowiseAI/Flowise/main/public/logo.png)" alt="Flowise" width="40" height="40"/>
     </a>
   </td>
   </tr>
