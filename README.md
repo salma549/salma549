@@ -108,7 +108,7 @@
         </a>
       </td>
      
-    </tr>
+ </tr>
     <tr>
       <td align="center" style="padding: 15px;" colspan="3">
         <a href="https://supabase.com/" target="_blank" rel="noreferrer">
