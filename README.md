@@ -102,16 +102,17 @@
           <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="60" height="60"/>
         </a>
       </td>
+        <td align="center" style="padding: 15px;">
+        <a href="https://tailwindcss.com/" target="_blank" rel="noreferrer">
+          <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="tailwind" width="60" height="60"/>
+        </a>
+      </td>
+     
+    </tr>
+    <tr>
       <td align="center" style="padding: 15px;" colspan="3">
         <a href="https://supabase.com/" target="_blank" rel="noreferrer">
           <img src="https://www.vectorlogo.zone/logos/supabase/supabase-icon.svg" alt="Supabase" width="60" height="60"/>
-        </a>
-      </td>
-    </tr>
-    <tr>
-      <td align="center" style="padding: 15px;">
-        <a href="https://tailwindcss.com/" target="_blank" rel="noreferrer">
-          <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="tailwind" width="60" height="60"/>
         </a>
       </td>
       <td align="center" style="padding: 15px;">
