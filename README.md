@@ -110,7 +110,7 @@
      
  </tr>
     <tr>
-      <td align="center" style="padding: 15px;" colspan="3">
+      <td align="center" style="padding: 15px;">
         <a href="https://supabase.com/" target="_blank" rel="noreferrer">
           <img src="https://www.vectorlogo.zone/logos/supabase/supabase-icon.svg" alt="Supabase" width="60" height="60"/>
         </a>
